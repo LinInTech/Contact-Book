@@ -104,14 +104,17 @@ body {
 }
 
 .btn-secondary {
+    border: 2px solid #feffff;
     background: lightskyblue;
 }
 
 .btn-danger {
+    border: 2px solid #feffff;
     background: rgb(245, 48, 48);
 }
 
 .btn-success {
+    border: 2px solid #feffff;
     background: lightgreen;
 }
 
